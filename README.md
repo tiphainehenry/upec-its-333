@@ -24,7 +24,7 @@ Vous obtenez une URL de type : https://github.com/
 ### Étape 2 – Dans le dossier cloné localement :
 ```bash
 git remote -v
-git remote set-url origin https://github.com/<eleve>/tp1.git
+git remote set-url origin https://github.com/<tp-its-333-nom-prenom>/tp1.git
 git add .
 git commit -m "Premier commit"
 git push -u origin main ## OU si la branche s'appelle master, git push -u origin master 
