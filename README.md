@@ -1,6 +1,6 @@
 # upec-its-333
 
-## upec-its-333
+## Objectifs
 Ce répertoire contient les supports de cours ITS 333 présentés en séance (voir slides/,  mis à jour à chaque fin de séance) ainsi que les trames d'exercices à compléter correspondantes.
 
 Chapitres abordés:
@@ -21,7 +21,7 @@ Chapitres abordés:
 Vous obtenez une URL de type : https://github.com/
 <votre-pseudo>/tp1-its-333-nom-prenom.git
 
-## Étape 2 – Dans le dossier cloné localement :
+### Étape 2 – Dans le dossier cloné localement :
 ```bash
 git remote -v
 git remote set-url origin https://github.com/<eleve>/tp1.git
