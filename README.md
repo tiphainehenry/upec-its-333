@@ -8,11 +8,23 @@ Chapitres abordés:
 * CM5 - Swagger UI
 
 
-Tuto pour transférer le git sur votre repo: 
-1. Créer un dépôt vide sur GitHub (ex. tp1)
-2. Dans le dossier cloné localement :
+Tuto pour publier votre premier projet Git sur **votre propre compte GitHub**, à partir du dépôt fourni par l’enseignant.
+
+## Étape 1 – Créer votre dépôt GitHub
+1. Connectez-vous à votre compte GitHub
+2. Cliquez sur **New repository**
+3. Nom du dépôt : `tp-its-333-nom-prenom`
+4. **Ne cochez aucune option** (README, .gitignore, licence)
+5. Cliquez sur **Create repository**
+
+Vous obtenez une URL de type : https://github.com/
+<votre-pseudo>/tp1-its-333-nom-prenom.git
+
+## Étape 2 – Dans le dossier cloné localement :
+```bash
 git remote -v
 git remote set-url origin https://github.com/<eleve>/tp1.git
 git add .
 git commit -m "Premier commit"
-git push -u origin main
+git push -u origin main ## OU si la branche s'appelle master, git push -u origin master 
+```
