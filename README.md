@@ -1,5 +1,6 @@
 # upec-its-333
 
+## upec-its-333
 Ce répertoire contient les supports de cours ITS 333 présentés en séance (voir slides/,  mis à jour à chaque fin de séance) ainsi que les trames d'exercices à compléter correspondantes.
 
 Chapitres abordés:
@@ -8,9 +9,9 @@ Chapitres abordés:
 * CM5 - Swagger UI
 
 
-Tuto pour publier votre premier projet Git sur **votre propre compte GitHub**, à partir du dépôt fourni par l’enseignant.
+## Publication de votre premier projet Git sur **votre propre compte GitHub**
 
-## Étape 1 – Créer votre dépôt GitHub
+### Étape 1 – Créer votre dépôt GitHub
 1. Connectez-vous à votre compte GitHub
 2. Cliquez sur **New repository**
 3. Nom du dépôt : `tp-its-333-nom-prenom`
